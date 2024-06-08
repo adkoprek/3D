@@ -57,11 +57,14 @@ git clone https://github.com/adkoprek/3D
 
 ### Prerequisites
 
-A browser
+A python interpreter and the package `matplotlib`
 
 ## Usage
 
-You can open this website over this [link](https://stately-caramel-8051c9.netlify.app)
+Run the main file
+```
+python main.py
+```
 
 ## Contributing
 
